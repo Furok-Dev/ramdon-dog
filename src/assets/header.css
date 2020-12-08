@@ -1,8 +1,8 @@
 .header-img {
-  height: 500px;
+  height: 250px;
   /* Ubicación de la imagen */
 
-  background-image: url(./imagen-header.jpg);
+  background-image: url(./fondos-de-perros-labradores.jpg);
 
   /* Para dejar la imagen de fondo centrada, vertical y
     
@@ -26,5 +26,5 @@
     
     de fondo o si hay problemas para cargarla */
 
-  background-color: red;
+  color: white;
 }
